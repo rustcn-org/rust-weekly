@@ -6,46 +6,58 @@
 ## 怀揣劲爆消息或优质内容？
 欢迎提交 `issue` 或 `PR`，我们欢迎一切有价值的内容，并且你提供的每条消息都将标注上你的 github 用户名和链接。
 
-## 最新一期 2022-02-28
-Rust 语言周刊正式创建啦，每一期的内容将分成多个栏目来呈现，例如新闻、技术文章、开源项目、Rust 语言更新等。话不多说，我们来看看创刊号的内容吧。
+## 最新一期 2022-03-04
 
-> 第一期准备时间比较仓促，因此我们大量借鉴并翻译了 this-week-in-rust.org 上的内容，但是按照周刊的栏目进行了内容再组织
-
-#### Rust语言更新
-
-- [🇨🇳 Rust 1.59 正式发布: 内联汇编、解构式赋值和大幅减少binary体积](https://zhuanlan.zhihu.com/p/472197977)
-- [知名 IDE 插件 rust-analyzer 正式加入 Rust 官方组织](https://blog.rust-lang.org/2022/02/21/rust-analyzer-joins-rust-org.html)
-- [Rust 编译器 2022 年的展望](https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html)
+<img src="https://pic4.zhimg.com/80/v2-7e5cc0507f4312e8410a5808198cba53_1440w.jpg" />
 
 #### Rust新闻
 
-- [基金会新增一个成员 simplabs](https://foundation.rust-lang.org/posts/2022-02-16-member-spotlight-simplabs/)
-- [基金会引入了顶尖人才来作为 Leader](https://foundation.rust-lang.org/news/2022-02-22-news-rust-foundation-attracts-top-talent-to-senior-leadership-roles/)
-- [AWS: 以下是我们下重注押宝 Rust 语言的原因](https://www.zdnet.com/article/programming-languages-aws-explains-why-rust-is-so-important/)
+- [2022年的 Rust 编译速度改进计划](https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html)
+
+- [rust-analyzer 和过程宏](https://veykril.github.io/posts/ide-proc-macros/)
+
 
 #### 精选文章
 
-- [🇨🇳 如何理解 Rust 中的不定长类型](https://www.zhihu.com/question/518410226/answer/2361631083)
-- [谈谈 pip 和 cargo 的差异](https://blog.williammanley.net/2022/02/23/pip-and-cargo-are-not-the-same.html)
-- [我们正在使用 Async Rust 来移植数据库驱动](https://www.scylladb.com/2022/02/22/were-porting-our-database-drivers-to-async-rust/)
-- [为何我们不选择 Go、C++ 或 Node.js，而是选择了 Rust](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
-- [🇨🇳 Cargo 使用指南系列](https://www.zhihu.com/column/c_1479106985190330369)
-- [在 Rust 项目中嵌入 JavaScript 引擎( quickjs )](https://github.com/andrieshiemstra/ScriptExtensionLayerExample)
-- [2022 年应该选择哪个 Web 框架](https://kerkour.com/rust-web-framework-2022)
-- [用 Rust 开发 Web: 解构](https://paulbutler.org/2022/rust-for-web-devs-destructuring/)
-- [使用 Rust 在编译期检查 Tailwind 的类名](https://blog.urth.org/2022/02/21/checking-tailwind-class-names-at-compile-time-with-rust/)
-- [为 Solana 构建区块链预言机](https://medium.com/loadsys-solutions/building-a-blockchain-oracle-for-solana-4556529ea841)
-- [视频系列] [使用 Rust 写一门编程语言 16](https://www.youtube.com/watch?v=WCMurdux6YM)
-- [论文：对 Rust 动态特征分发进行验证](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf)
-- [我们需要重新审视下 RFC 的流程](https://www.ncameron.org/blog/the-problem-with-rfcs/)
+- [Rust vs Go: 兄弟就应该在一起](https://thenewstack.io/rust-vs-go-why-theyre-better-together/)
+  
+- [用 Rust 达成每小时 1TB 的客户端数据备份速度](https://www.druva.com/blog/achieving-1tb-hr-backup-speed-with-a-core-client-side-data-pipeline-in-rust/)
+  
+- [如何绕过 Rust 借用检查规则](https://blog.warp.dev/rules-are-made-to-be-broken/)
+  
+- [开启学习 Rust 所需的心智模式](https://kerkour.com/rust-mental-models)
+  
+- [通过 Rust 实现无容器化！在 K8S 上运行 WASM 服务](https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust)
+  
+- [如何跟踪现代化的电信网络](https://oxio.com/blog/modern-telecom-network-tracing/)
+  
+- [加密库最大的缺陷不是来自于加密学 bug 而是内存安全](https://www.reddit.com/r/rust/comments/t33ddj/the_biggest_source_of_vulnerabilities_in/)
+  
+- [关于 unchecked 和 unsafe 的讨论](https://www.reddit.com/r/rust/comments/t3di49/discussion_the_unchecked_keyword/)
+  
+- [在 Android 开发中使用 Rust](https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca)
+  
+- [series] [使用 Rust 构建图形化引擎 - Part 2](https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2)
+  
+- [series] [端到端加密的基石，示例使用 Rust 编写，本文是系列文章中的第三篇](https://kerkour.com/end-to-end-encryption-key-exchange-cryptography-rust)
+  
+- [video] [Rust 2022 年的愿景](https://www.youtube.com/watch?v=zYrudh-dsX8)
 
 #### 开源项目
 
-- [通过练习题和实践学习 Rust](https://github.com/sunface/rust-by-practice)
-- [Tokio Metrics 0.1](https://tokio.rs/blog/2022-02-announcing-tokio-metrics)
-* [clap 3.1: 迈向 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)
-* [Zellij 0.25.0: 面向开发、运维的终端工作空间](https://zellij.dev/news/floating-panes-tmux-mode/)
-* [Hurl 1.6.0, 使用文本来运行和测试你的 HTTP 请求](https://hurl.dev/blog/2022/02/11/announcing-hurl-1.6.0.html)
+- [cargo-zigbuild 作者再出手！轻松实现在其它系统中交叉编译到 Windows](https://github.com/messense/cargo-xwinbuild)
+  
+- [Engula 0.3 发布：Rust 写的云原生数据存储服务，可用于数据库、缓存和核心存储引擎](https://www.reddit.com/r/rust/comments/t36ha6/announcing_engula_03/)
+  
+- [Wasmer 2.2 发布: 支持 WASI 和 Emscripten 的 WASM 运行时，新版本更快更强，且支持更多的平台，包括苹果 m1 芯片](https://wasmer.io/posts/wasmer-2.2)
+  
+- [Codesnipt: 基于 Rust + Flutter， 用于存储、索引和搜索你的代码片段](https://github.com/MichaelProjects/codsnipet)
+  
+- [igrep: 在终端中交互式的使用 grep，基于 ripgrep 实现](https://github.com/konradsz/igrep)
+  
+- [Actix Web 发布 4.0: 完全兼容 Tokio v1 生态，并且支持 #[tokio::main]；API 优化；文档大幅优化等](https://github.com/actix/actix-web/wiki/v4-Announcement)
+  
+- [AWS Lambda Rust 运行时发布 0.5.0](https://github.com/awslabs/aws-lambda-rust-runtime/releases/tag/v0.5.0)
 
 
 ## 往期回顾
