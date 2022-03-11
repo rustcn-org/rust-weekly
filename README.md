@@ -6,7 +6,7 @@
 ## 最新一期 2022-03-11
 
 
-<img src="https://pic3.zhimg.com/80/v2-a6bc444e06bde6f7cc40ae673009c864_1440w.png" />
+<img src="https://pic3.zhimg.com/80/v2-a6bc444e06bde6f7cc40ae673009c864_1440w.png" width="50%" />
 
 #### Rust新闻
 
