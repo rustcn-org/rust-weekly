@@ -3,7 +3,7 @@
 
 > 本周刊由 **_Rust编程学院_** 发布，我们郑重承诺，永不太监！除非... Rust 被你们抛弃 :(
 >
-> 目前由于相关中文资源还比较少，因此会以英文资料为主，未来[Rust TT翻译组](https://rusttt.com)会对优秀的英文文章进行翻译
+> 目前由于相关中文资源还比较少，因此会以英文资料为主，未来[Rustt 翻译组](https://rustt.org)会对优秀的英文文章进行翻译
 
 ## 「Rust 语言周刊」 第 5 期 · 2022-03-25
 <img src="https://www.nushell.sh/assets/img/0_60_completions.29aef109.gif">
