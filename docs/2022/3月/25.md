@@ -26,7 +26,7 @@ Skytable 是一个开源 NoSQL 数据库。
 
 #### 精选文章
 
-1、 [Zh](Rust 移动开发与跨平台模式研究)(https://zhuanlan.zhihu.com/p/484269271)
+1、 [Zh][Rust 移动开发与跨平台模式研究](https://zhuanlan.zhihu.com/p/484269271)
 
 作者张汉东是浸淫 Rust 多年的大佬，文章主要聚焦于移动开发的跨平台支持情况。
 
