@@ -16,7 +16,7 @@
 
 目前已有多个高质量的书籍翻译，包括`手把手带你实现链表`、`Rust异步编程指南`、`Cargo使用指南`、`Tokio官方教程`等。 大家可以访问之前的链接查看详情。
 
-2. [Nullshell 发布 0.60 版本](https://www.nushell.sh/assets/img/0_60_completions.29aef109.gif)
+2. [Nullshell 发布 0.60 版本](https://www.nushell.sh)
 
 Nullshell 是一个现代化、模块化的终端。0.60 版本带来了大量新特性，一起来看看吧。
 
