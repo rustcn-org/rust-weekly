@@ -57,7 +57,7 @@
 
 1、[生成你的 Github Profile](https://github.com/autarch/autarch)
 
-灵感来自于作者在简历中看到别人的炫酷 Github 个人首页展示，还写了[一篇文章]((https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)。
+灵感来自于作者在简历中看到别人的炫酷 Github 个人首页展示，还写了[一篇文章](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)。
 
 
 2、[fp-bindgen: 为全栈 WASM 插件生成相应的 binding](https://fiberplane.dev/blog/announcing-fp-bindgen/)
